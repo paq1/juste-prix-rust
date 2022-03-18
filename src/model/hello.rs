@@ -1,0 +1,1 @@
+pub static HELLO_WORLD: &str = "hello world";

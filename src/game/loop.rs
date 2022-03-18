@@ -1,0 +1,1 @@
+pub fn helloworld() -> &'static str { return "hello world" }
